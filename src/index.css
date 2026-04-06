@@ -62,3 +62,12 @@ a
     padding : 14px 22px;
   }
 }
+
+
+@media (max-width: 650px)
+{
+  .btn 
+  {
+    padding : 10px 12px;
+  }
+}
